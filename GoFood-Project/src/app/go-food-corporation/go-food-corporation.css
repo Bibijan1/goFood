@@ -1,0 +1,37 @@
+.goFood-corporation-body {
+    background-color: rgb(9, 217, 103);
+    margin-top: -5.6%;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+.goFood-corporation-body .corporation-slogan {
+    font-size: 50px;
+    font-weight: 800;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-decoration: underline;
+}
+
+.rows {
+  display: flex;              /* makes children side by side */
+  align-items: center;        /* vertically align video and text */
+  gap: 20px;                  /* space between video and text */
+  max-width: 1200px;          /* optional, keep it neat */
+  margin: auto;               /* center in page */
+  padding: 20px;
+}
+
+.corporation-clip {
+  width: 30%;                 /* video takes half the space */
+  border-radius: 10px;        /* optional, rounded edges */
+}
+
+.corporation-image-container p {
+  width: 50%;                 /* text takes the other half */
+  font-size: 2.1rem;
+  line-height: 1.6;
+}

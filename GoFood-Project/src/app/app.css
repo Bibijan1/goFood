@@ -1,0 +1,12 @@
+.navBar-container {
+    background-color: rgb(9, 117, 57);
+    margin-left: -1%;
+    margin-right: -1%;
+    margin-top: -0.6%;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    height: 115px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

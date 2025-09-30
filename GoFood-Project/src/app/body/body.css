@@ -1,0 +1,18 @@
+.body{
+    background-color: rgb(9, 217, 103);
+    margin-left: -0.5%;
+    margin-right: -0.5%;
+    margin-top: 0.05%;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+.body .slogan{
+    font-size: 50px;
+    font-weight: 800;
+    margin-left: 10%;
+    margin-right: 10%;
+}
